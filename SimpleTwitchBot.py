@@ -1,11 +1,11 @@
 import concurrent.futures, time, random, os
 
 #desired channel url
-channel_url = 'https://www.twitch.tv/yourchannelname'
+channel_url = 'https://www.twitch.tv/Calo77103'
 #number of viewer bots
-botcount = 10
+botcount = 15
 #path to proxies.txt file
-proxypath = "C:\Proxy\proxy.txt"
+proxypath = "C:\proxy.txt"
 #path to vlc
 playerpath = r'"C:\Program Files\VideoLAN\VLC\vlc.exe"'
 
